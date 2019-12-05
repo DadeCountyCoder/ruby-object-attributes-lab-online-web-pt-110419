@@ -7,7 +7,7 @@ class Dog
     @name=name
   end
   
- Beagle = Dog.breed
+# Beagle = Dog.breed
   
   fido = Dog.name
   
