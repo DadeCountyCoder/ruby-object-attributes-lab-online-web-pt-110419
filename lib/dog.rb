@@ -8,9 +8,11 @@ class Dog
   end
   
 # Beagle = Dog.breed
-  def dog(breed)
+  def (breed)
     @breed
   end
+  
+  
   fido = Dog.name
   
 end
