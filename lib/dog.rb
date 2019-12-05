@@ -13,6 +13,6 @@ class Dog
   end
   
   
-  fido = Dog.name
+  # fido = Dog.name
   
 end
