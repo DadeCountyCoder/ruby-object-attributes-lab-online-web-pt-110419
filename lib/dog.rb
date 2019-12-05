@@ -7,6 +7,8 @@ class Dog
     @name=name
   end
   
+  def 
+  
   fido = Dog.name
   
 end
