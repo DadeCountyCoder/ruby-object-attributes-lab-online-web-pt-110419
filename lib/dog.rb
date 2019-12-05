@@ -16,6 +16,6 @@ class Dog
     @breed=breed
   end
   
-   fido = Dog.name
+  # fido = Dog.name
   
 end
